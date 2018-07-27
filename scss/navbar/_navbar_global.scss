@@ -70,6 +70,7 @@
       }
       &.show > .nav-link:after {
         content: '\f107';
+        font-family: 'Font Awesome 5 Free';
       }
       .dropdown-menu > .dropdown-item > .dropdown-message {
         overflow: hidden;
