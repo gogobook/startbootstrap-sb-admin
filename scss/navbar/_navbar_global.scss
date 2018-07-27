@@ -16,10 +16,11 @@
 
         content: '\f107';
 
-        font-family: 'FontAwesome';
+        font-family: 'Font Awesome 5 Free';
       }
       .nav-link-collapse.collapsed:after {
         content: '\f105';
+        font-family: 'Font Awesome 5 Free';
       }
       .sidenav-second-level,
       .sidenav-third-level {
@@ -58,7 +59,7 @@
 
           border: none;
 
-          font-family: 'FontAwesome';
+          font-family: 'Font Awesome 5 Free';
         }
         .indicator {
           position: absolute;
